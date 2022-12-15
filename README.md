@@ -1,53 +1,49 @@
-# week-3-code-challenge
+# Project Title
+
+Anga Movir Theater
+
+## Description
+This is a simple app which enables you as the user to see the different films listed and their details like the mfilm poster, title, runtime and showtime
+As a user I can:
+* See a list of the first film. 
+* See a list of all films. 
+* Click on a films' title to see its details i.e image, title, showtime etc.
+* When viewing a films' details, I can click on a button and book a ticket and also see remaining tickets for a specific movie
 
 
-# My code challenge week 3 description
+## Getting Started
 
-​This is a code application that i have written that can be used for/to purchasing a movie ticket.
+### Dependencies
 
-# Features of the writen code
-​
+In order for you to use the content on this repo ensure you have the following:
 
-- Click on any film list on the left sidebar of the web page to display the film details.
-- Click the buy ticket button to purchase a ticket for the movie.
+* A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+* nodejs 16.18.1
 
-​# <b>Installation of the development</b>
+### Installing
 
-# INstallation requirments
+* Firstly, in order to run this site you will need to install json server in your machine with the command npm i -g json-server
+* Run this command to get the backend started: json-server --watch db.json
 
-​In order for you to use the content on this repository one is required to have the following requirments:​
+### Executing program
 
-- A computer that runs on either of the following; 
-(Windows 7+, Linux, Mac OS)
+* You can be able to run this app but opening it in the browser using this link 
+* https://github.com/Bwaweru12345/week-3-code-challenge
+```
 
-# Procedure of the installation 
-​
+```
 
-Open a terminal / command line interface on your computer.
+## Help
 
-Git clone the repo by using the following so as to create a copy of the code on the local machine storage :​git clone git@github.com:Bwaweru12345/week-3-code-challenge.git
+If any problems arise check and confirm you have json-server installed, initialized and running so that it can be able to detect/see your json file.
+```
 
-Then change the files directory by typing the following in the terminal :cd week-3-code-challenge
+```
 
-Then open the file in Visual Studio Code by typing the following command (code .) 
-*Wait a few seconds for the VSCo app to open​
-
-# Running the application
-
--Running this application can be very straight forward and through this [Readme](https://github.com/Bwaweru12345/week-1-Code-challange/blob/main/README.md) file i will take you step by step.
-
-In order to run the application in your local machine, you can follow the steps below:
-
--Installation of the json-server.
-
--Open with live server! In order to do this right click anywhere on the lines of code in order to display the options list, then scroll down to where it says "Open with live server" then click on it and wait.
-
-# Author
-
-The author of this code challenge:
+# Authors
+This project was writen to by:
 - [Bryan Waweru](https://github.com/Bwaweru12345)
 
-
 # License
+The project is licensed under ISC.
 
-The project is licensed by ISC.
